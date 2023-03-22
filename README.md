@@ -1,2 +1,2 @@
-# ODFD-PROJECT
-This repository contains collaborative inputs for an innnovative web application that redesigns the on-demand food delivery (ODFD) service. 
+# ODFD-RESEARCH NOTES
+This branch contains notes relating to app development ranging from software tools, techniques or methods and troubleshooting
