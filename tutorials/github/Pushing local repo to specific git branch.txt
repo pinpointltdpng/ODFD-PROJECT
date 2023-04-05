@@ -1,0 +1,18 @@
+1. Open your terminal or command prompt.
+2. Navigate to the directory where your local repository is stored.
+3. Run the command git init to initialize the repository.
+
+Add and commit files to the local repository
+
+4. Run the command git add . to add all the files in the repository to the staging area.
+5. Run the command git commit -m "Initial commit" to commit the changes to the local repository. Make sure to write meaningfull commit messages.
+
+Connect the local repository to the remote GitHub repository:
+
+6. Run the command git remote add origin https://github.com/<username>/<repository>.git, replacing <username> with your GitHub username and <repository> with the name of the repository
+
+Push the local repository to the remote GitHub repository
+
+7. Run the command git push -u origin <branch>, replacing <branch> with the name of the branch you want to push your changes to.
+
+If all goes well, then you have successfully pushed your 
