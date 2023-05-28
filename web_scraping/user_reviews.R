@@ -7,9 +7,6 @@ url <- "https://www.top-rated.online/countries/Papua+New+Guinea/cities/Port+More
 # scrape website
 df <- user_ratings(url)
 
-# Adjust tibble columns
-df <- df %>% dplyr::select(4,2,5,3)
-
 # Create id's df
 df_id <- df %>% dplyr::select(4,5,3)
 
