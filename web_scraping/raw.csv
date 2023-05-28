@@ -1,0 +1,966 @@
+users,restaurant_names,ratings,users_id,restaurant_id
+L,THE DIRTY KITCHEN,5,267,63
+YA,THE DIRTY KITCHEN,5,508,63
+HUANG,THE DIRTY KITCHEN,5,187,63
+Nick,THE DIRTY KITCHEN,5,340,63
+HORRACE,THE DIRTY KITCHEN,5,184,63
+IGNASIUS,THE DIRTY KITCHEN,5,194,63
+Pierre,THE DIRTY KITCHEN,5,367,63
+Krishnakumar,THE DIRTY KITCHEN,5,263,63
+Dan,THE DIRTY KITCHEN,5,86,63
+Caribbean,THE DIRTY KITCHEN,4,57,63
+renee,Mumu Restaurant,5,388,45
+genevieve,Mumu Restaurant,5,156,45
+Zac,Mumu Restaurant,5,513,45
+James,Mumu Restaurant,4,208,45
+Nick,Mumu Restaurant,4,340,45
+JianLai,Mumu Restaurant,2,219,45
+Khairil,Mumu Restaurant,1,254,45
+J,Mumu Restaurant,1,203,45
+Jonathan,Chow Masters,5,229,18
+Lukas,Chow Masters,5,292,18
+Kilo,Chow Masters,5,257,18
+Reagan,Chow Masters,5,386,18
+Ramon,Chow Masters,5,376,18
+Hellen,Chow Masters,5,181,18
+Nick,Chow Masters,4,340,18
+Mathew,Chow Masters,3,302,18
+William,Chow Masters,3,506,18
+The,Chow Masters,2,466,18
+M,Mojo Social,5,294,43
+Alexis,Mojo Social,5,13,43
+Michael,Mojo Social,5,316,43
+Jacinta,Mojo Social,5,204,43
+Malcolm,Mojo Social,5,295,43
+Nathan,Mojo Social,5,333,43
+ravioli,Mojo Social,5,380,43
+Frank,Mojo Social,5,143,43
+Simon,Mojo Social,5,435,43
+Edward,Mojo Social,5,117,43
+Paul,Mojo Social,5,358,43
+Dario,Mojo Social,5,92,43
+Lanie,Mojo Social,5,271,43
+Shammah,Mojo Social,5,432,43
+Quah,Mojo Social,5,372,43
+Daniel,Mojo Social,5,87,43
+Marita,Mojo Social,5,298,43
+Charles,Mojo Social,5,64,43
+Cinnar,Mojo Social,5,73,43
+Nathan,Mojo Social,5,333,43
+Cameron,Mojo Social,5,56,43
+joseph,Mojo Social,5,231,43
+Scholastica,Mojo Social,5,426,43
+Alfred,Mojo Social,5,14,43
+ismail,Mojo Social,5,200,43
+Godfrey,Mojo Social,5,165,43
+ogu,Mojo Social,5,348,43
+Peter,Mojo Social,5,360,43
+Esther,Mojo Social,5,132,43
+Emanuel,Mojo Social,5,121,43
+Gari,Mojo Social,4,151,43
+Bixby,Mojo Social,4,44,43
+Nick,Mojo Social,4,340,43
+Andres,Mojo Social,4,17,43
+Keilynn,Mojo Social,4,248,43
+genevieve,Mojo Social,4,156,43
+Dave,Mojo Social,4,95,43
+Carole,Mojo Social,4,60,43
+Robert,Mojo Social,4,397,43
+Sowani,Mojo Social,4,442,43
+Beryl,Mojo Social,4,40,43
+Fiona,Mojo Social,4,138,43
+ROBERTSON,Mojo Social,3,398,43
+Sharon,Mojo Social,3,434,43
+Francois,Mojo Social,3,142,43
+Stephen,Mojo Social,3,447,43
+Paul,Mojo Social,3,358,43
+Seruma,Mojo Social,3,429,43
+Dencio,Mojo Social,3,100,43
+Pwapei,Mojo Social,2,371,43
+Steve,Bacchus Restaurant,5,449,5
+Chico,Bacchus Restaurant,5,69,5
+ogu,Bacchus Restaurant,5,348,5
+Micheal,Bacchus Restaurant,5,318,5
+Vittaya,Bacchus Restaurant,5,491,5
+Mizzeda,Bacchus Restaurant,5,323,5
+Vergil,Bacchus Restaurant,5,487,5
+Mary,Bacchus Restaurant,5,299,5
+Tya,Bacchus Restaurant,5,481,5
+Anthony,Bacchus Restaurant,5,22,5
+vr,Bacchus Restaurant,5,492,5
+years,Bacchus Restaurant,5,510,5
+Heather,Bacchus Restaurant,5,179,5
+Ian,Bacchus Restaurant,5,191,5
+Reach,Bacchus Restaurant,5,385,5
+Mathias,Bacchus Restaurant,5,303,5
+Les,Bacchus Restaurant,5,278,5
+Emma,Bacchus Restaurant,5,123,5
+Robert,Bacchus Restaurant,5,397,5
+Jean,Bacchus Restaurant,5,213,5
+Gene,Bacchus Restaurant,5,155,5
+Neo,Bacchus Restaurant,5,336,5
+Lionel,Bacchus Restaurant,5,284,5
+Mathew,Bacchus Restaurant,5,302,5
+Annu,Bacchus Restaurant,5,20,5
+Marcin,Bacchus Restaurant,5,297,5
+Gary,Bacchus Restaurant,4,152,5
+christopher,Bacchus Restaurant,4,71,5
+Helen,Bacchus Restaurant,4,180,5
+Sonny,Bacchus Restaurant,4,440,5
+Michelle,Bacchus Restaurant,3,319,5
+Sandra,Bacchus Restaurant,3,419,5
+yurika,Bacchus Restaurant,1,512,5
+Wendy,Bacchus Restaurant,1,502,5
+Grace,Kula Fried Lambflaps,5,167,40
+Jack,Kula Fried Lambflaps,5,205,40
+Loretto,Kula Fried Lambflaps,5,291,40
+Sofia,Kula Fried Lambflaps,5,438,40
+Eli,Kula Fried Lambflaps,5,119,40
+James,Kula Fried Lambflaps,5,208,40
+Terence,Kula Fried Lambflaps,5,465,40
+Timothy,Kula Fried Lambflaps,4,470,40
+Cameron,Kula Fried Lambflaps,3,56,40
+Pogi,Kula Fried Lambflaps,1,368,40
+caroline,Fusion Bistro 2,5,61,32
+RayRays,Fusion Bistro 2,5,384,32
+Seesiik,Fusion Bistro 2,5,427,32
+Phillip,Fusion Bistro 2,5,364,32
+Solomon,Fusion Bistro 2,5,439,32
+Karo,Fusion Bistro 2,5,245,32
+Janina,Fusion Bistro 2,5,212,32
+Ian,Fusion Bistro 2,4,191,32
+Bri,Fusion Bistro 2,4,49,32
+Sularso,Fusion Bistro 2,4,454,32
+James,Fusion Bistro 2,3,208,32
+Jonathan,Sandy Restaurant,5,229,53
+Jacinta,Sandy Restaurant,5,204,53
+Krishnakumar,Sandy Restaurant,5,263,53
+Talitha,Sandy Restaurant,5,460,53
+Lee,Sandy Restaurant,4,276,53
+Jed,Sandy Restaurant,4,214,53
+genevieve,Sandy Restaurant,4,156,53
+Danny,Sandy Restaurant,4,90,53
+YA,Sandy Restaurant,4,508,53
+Dencio,Sandy Restaurant,1,100,53
+Natasha,Cozy's Diner,5,331,20
+Brendan,Cozy's Diner,5,47,20
+George,Cozy's Diner,5,158,20
+Rose,Cozy's Diner,5,404,20
+Trevor,Cozy's Diner,4,478,20
+Hansley,Cozy's Diner,4,175,20
+months,Cozy's Diner,4,326,20
+GB,Cozy's Diner,1,154,20
+Noah,Buffalo Burger - Uni Store,5,344,15
+Ephraim,Buffalo Burger - Uni Store,5,127,15
+Ruth,Buffalo Burger - Uni Store,5,409,15
+Ruben,Buffalo Burger - Uni Store,5,408,15
+Kerry,Buffalo Burger - Uni Store,4,251,15
+Janina,Buffalo Burger - Uni Store,4,212,15
+Dino,Buffalo Burger - Uni Store,3,104,15
+Nelson,Buffalo Burger - Uni Store,1,334,15
+Abby,Buffalo Burger - Town Store,5,3,14
+Eric,Buffalo Burger - Town Store,5,128,14
+Dallas,Buffalo Burger - Town Store,5,85,14
+Julie,Buffalo Burger - Town Store,5,239,14
+Matalam,Buffalo Burger - Town Store,5,300,14
+Jonathan,Buffalo Burger - Town Store,5,229,14
+Eliack,Buffalo Burger - Town Store,5,120,14
+Warendo,Buffalo Burger - Town Store,5,497,14
+Onno,Buffalo Burger - Town Store,5,351,14
+Brendon,Buffalo Burger - Town Store,5,48,14
+M,Buffalo Burger - Town Store,4,294,14
+Eli,Buffalo Burger - Town Store,4,119,14
+Burford,Buffalo Burger - Town Store,4,52,14
+Fiona,Buffalo Burger - Town Store,4,138,14
+Lamonai,Buffalo Burger - Town Store,4,269,14
+Joel,Buffalo Burger - Town Store,3,224,14
+savita,Duffy PNG Cafe Gabaka St,5,425,24
+Shammah,Duffy PNG Cafe Gabaka St,5,432,24
+Materua,Duffy PNG Cafe Gabaka St,5,301,24
+Solomon,Duffy PNG Cafe Gabaka St,5,439,24
+fo,Duffy PNG Cafe Gabaka St,5,140,24
+James,Duffy PNG Cafe Gabaka St,5,208,24
+Adam,Duffy PNG Cafe Gabaka St,4,5,24
+Samuel,Duffy PNG Cafe Gabaka St,4,416,24
+Carole,Duffy PNG Cafe Gabaka St,4,60,24
+Daniel,Duffy PNG Cafe Gabaka St,4,87,24
+claudio,Duffy PNG Cafe Gabaka St,4,77,24
+Nick,Duffy PNG Cafe Gabaka St,3,340,24
+Esther,Duffy PNG Cafe Gabaka St,3,132,24
+Tori,Duffy PNG Cafe Gabaka St,3,476,24
+Stephannie,Duffy PNG Cafe Gabaka St,2,446,24
+Brian,Duffy PNG Cafe Gabaka St,1,50,24
+Helen,Edge Cafe Port Moresby,5,180,26
+Nick,Edge Cafe Port Moresby,5,340,26
+Abby,Edge Cafe Port Moresby,5,3,26
+Tim,Edge Cafe Port Moresby,5,469,26
+Francois,Edge Cafe Port Moresby,4,142,26
+renee,Edge Cafe Port Moresby,4,388,26
+Shane,Edge Cafe Port Moresby,4,433,26
+Crystal,Edge Cafe Port Moresby,4,81,26
+Leandro,Edge Cafe Port Moresby,4,275,26
+Jana,Edge Cafe Port Moresby,4,211,26
+Roz,Edge Cafe Port Moresby,4,407,26
+Brian,Edge Cafe Port Moresby,4,50,26
+Rayner,Buffalo Burger - Waigani Store,5,383,16
+Josh,Buffalo Burger - Waigani Store,5,234,16
+Jacinta,Buffalo Burger - Waigani Store,5,204,16
+Grace,Buffalo Burger - Waigani Store,5,167,16
+Gordon,Buffalo Burger - Waigani Store,5,166,16
+Beryl,Buffalo Burger - Waigani Store,4,40,16
+Elena,Buffalo Burger - Waigani Store,4,118,16
+Adam,Buffalo Burger - Waigani Store,4,5,16
+Wilfred,Buffalo Burger - Waigani Store,4,503,16
+Helen,Buffalo Burger - Waigani Store,4,180,16
+Timothy,Buffalo Burger - Waigani Store,1,470,16
+Tus,Alibi Bar & Grill,5,480,2
+T,Alibi Bar & Grill,5,459,2
+Liberty,Alibi Bar & Grill,5,282,2
+Charlie,Alibi Bar & Grill,4,65,2
+Carole,Alibi Bar & Grill,4,60,2
+Kylie,Alibi Bar & Grill,4,266,2
+Jessica,Alibi Bar & Grill,4,218,2
+Grace,Alibi Bar & Grill,4,167,2
+Samson,Alibi Bar & Grill,4,414,2
+Nancy,Alibi Bar & Grill,3,328,2
+Kiran,Duffy Cafe Harbourside,5,259,23
+Michael,Duffy Cafe Harbourside,4,316,23
+renee,Duffy Cafe Harbourside,4,388,23
+ogu,Duffy Cafe Harbourside,4,348,23
+Shane,Duffy Cafe Harbourside,4,433,23
+Gary,Duffy Cafe Harbourside,4,152,23
+claudio,Duffy Cafe Harbourside,4,77,23
+Jessica,Duffy Cafe Harbourside,3,218,23
+Crystal,Duffy Cafe Harbourside,3,81,23
+JianLai,Duffy Cafe Harbourside,3,219,23
+Brian,Duffy Cafe Harbourside,3,50,23
+Jonathan,Aviat Social & Sporting Club,5,229,4
+Chez,Aviat Social & Sporting Club,5,68,4
+Noel,Aviat Social & Sporting Club,5,345,4
+Phyllis,Aviat Social & Sporting Club,5,365,4
+Brian,Aviat Social & Sporting Club,5,50,4
+Shamal,Aviat Social & Sporting Club,4,431,4
+Nick,Aviat Social & Sporting Club,4,340,4
+umang,Aviat Social & Sporting Club,4,484,4
+Steven,Aviat Social & Sporting Club,4,451,4
+Julie,Aviat Social & Sporting Club,4,239,4
+claudio,Aviat Social & Sporting Club,4,77,4
+Emily,Aviat Social & Sporting Club,4,122,4
+Jephta,Aviat Social & Sporting Club,4,216,4
+Esther,Aviat Social & Sporting Club,3,132,4
+samuel,Golden Bowl Restaurant,5,415,33
+Joe,Golden Bowl Restaurant,5,223,33
+p,Golden Bowl Restaurant,5,354,33
+ashok,Golden Bowl Restaurant,5,25,33
+YumiTok,Golden Bowl Restaurant,5,511,33
+Kumar,Golden Bowl Restaurant,5,264,33
+Crystal,Golden Bowl Restaurant,5,81,33
+Mali,Golden Bowl Restaurant,5,296,33
+David,Golden Bowl Restaurant,5,96,33
+Pheonix,Golden Bowl Restaurant,5,361,33
+Jacklyn,Golden Bowl Restaurant,5,206,33
+Roselyn,Golden Bowl Restaurant,5,405,33
+Roz,Golden Bowl Restaurant,5,407,33
+Mike,Golden Bowl Restaurant,5,320,33
+Chez,Golden Bowl Restaurant,5,68,33
+Johann,Golden Bowl Restaurant,5,225,33
+Immanuel,Golden Bowl Restaurant,5,196,33
+Hydrofunk,Golden Bowl Restaurant,5,189,33
+Dino,Golden Bowl Restaurant,5,104,33
+Glen,Golden Bowl Restaurant,5,163,33
+Gibson,Golden Bowl Restaurant,5,162,33
+Bakul,Golden Bowl Restaurant,5,31,33
+Joe,Golden Bowl Restaurant,5,223,33
+savannah,Golden Bowl Restaurant,5,424,33
+Kimson,Golden Bowl Restaurant,5,258,33
+Surinder,Golden Bowl Restaurant,5,456,33
+Well,Golden Bowl Restaurant,5,500,33
+Grey,Golden Bowl Restaurant,5,170,33
+Lavina,Golden Bowl Restaurant,4,273,33
+Graham,Golden Bowl Restaurant,4,168,33
+H,Golden Bowl Restaurant,4,172,33
+StreetCut,Golden Bowl Restaurant,4,452,33
+Levi,Golden Bowl Restaurant,4,281,33
+caroline,Golden Bowl Restaurant,4,61,33
+Fiona,Golden Bowl Restaurant,4,138,33
+Tarxic,Golden Bowl Restaurant,4,463,33
+Snyper,Golden Bowl Restaurant,4,437,33
+Iru,Golden Bowl Restaurant,4,197,33
+Ctil,Golden Bowl Restaurant,4,82,33
+Jeremy,Golden Bowl Restaurant,4,217,33
+Ismael,Golden Bowl Restaurant,4,199,33
+Hims,Golden Bowl Restaurant,3,182,33
+Victor,Golden Bowl Restaurant,3,490,33
+Will,Golden Bowl Restaurant,3,504,33
+Bernard,Golden Bowl Restaurant,3,38,33
+Livina,Golden Bowl Restaurant,3,286,33
+Erick,Golden Bowl Restaurant,3,129,33
+Ricky,Golden Bowl Restaurant,3,395,33
+Ness,Golden Bowl Restaurant,3,337,33
+frist,Golden Bowl Restaurant,3,148,33
+Besei,Golden Bowl Restaurant,2,41,33
+Roppe,Golden Bowl Restaurant,2,403,33
+Ronal,Tandoor on the Harbour,5,402,60
+sandeep,Tandoor on the Harbour,5,417,60
+Nitin,Tandoor on the Harbour,5,343,60
+Jonathan,Tandoor on the Harbour,5,229,60
+Emily,Tandoor on the Harbour,5,122,60
+James,Tandoor on the Harbour,5,208,60
+Crystal,Tandoor on the Harbour,4,81,60
+Sarah,Tandoor on the Harbour,4,422,60
+Catherine,Tandoor on the Harbour,4,63,60
+A,Tandoor on the Harbour,4,1,60
+claudio,Tandoor on the Harbour,4,77,60
+Johann,Element Bar,5,225,27
+C,Element Bar,5,54,27
+Tus,Element Bar,5,480,27
+Immanuel,Element Bar,5,196,27
+Pegara,Element Bar,5,359,27
+Freeman,Element Bar,5,147,27
+Crystal,Element Bar,4,81,27
+Beryl,Element Bar,4,40,27
+Grace,Element Bar,4,167,27
+George,Element Bar,4,158,27
+Jamimah,Element Bar,3,210,27
+Elena,Luluai,5,118,41
+Pangesaun,Luluai,5,355,41
+Kialo,Luluai,5,255,41
+Steven,Luluai,5,451,41
+A,Luluai,4,1,41
+Beasty,Luluai,4,32,41
+Patrick,Luluai,4,357,41
+Mary,Luluai,3,299,41
+Steve,Bistro Savannah - Wokples Building,5,449,13
+Cheong,Bistro Savannah - Wokples Building,5,66,13
+imelda,Bistro Savannah - Wokples Building,5,195,13
+Zure,Bistro Savannah - Wokples Building,5,515,13
+Une,Bistro Savannah - Wokples Building,5,485,13
+Jon,Bistro Savannah - Wokples Building,4,228,13
+Jeremy,Bistro Savannah - Wokples Building,4,217,13
+Leandro,Bistro Savannah - Wokples Building,3,275,13
+Nina,Bistro Savannah - Wokples Building,1,342,13
+Leo,South Pacific Motor Sports Club,5,277,57
+Wangoro,South Pacific Motor Sports Club,5,496,57
+Solomon,South Pacific Motor Sports Club,5,439,57
+Steve,South Pacific Motor Sports Club,5,449,57
+Pierre,South Pacific Motor Sports Club,5,367,57
+Isaac,South Pacific Motor Sports Club,5,198,57
+Nick,South Pacific Motor Sports Club,5,340,57
+Aaron,South Pacific Motor Sports Club,5,2,57
+T,South Pacific Motor Sports Club,5,459,57
+Gavin,South Pacific Motor Sports Club,4,153,57
+Umair,South Pacific Motor Sports Club,3,483,57
+Eliack,Chixmore,5,120,17
+Chez,Chixmore,5,68,17
+Aaron,Chixmore,5,2,17
+Clarence,Chixmore,5,75,17
+T,Chixmore,4,459,17
+Nick,Chixmore,4,340,17
+Jephta,Chixmore,3,216,17
+Jeremy,Chixmore,3,217,17
+Jonathan,Pentagon Entertainment,5,229,47
+Rose,Pentagon Entertainment,5,404,47
+Stephen,Pentagon Entertainment,4,447,47
+T,Pentagon Entertainment,4,459,47
+David,Pentagon Entertainment,4,96,47
+Bethel,Pentagon Entertainment,4,42,47
+Jameson,Pentagon Entertainment,3,209,47
+Brian,Pentagon Entertainment,1,50,47
+Une,Jackson's Bar Restaurant & Gaming,5,485,38
+Talitha,Jackson's Bar Restaurant & Gaming,5,460,38
+Paul,Jackson's Bar Restaurant & Gaming,5,358,38
+j,Jackson's Bar Restaurant & Gaming,5,202,38
+Jonathan,Jackson's Bar Restaurant & Gaming,5,229,38
+G,Jackson's Bar Restaurant & Gaming,5,149,38
+Dylan,Jackson's Bar Restaurant & Gaming,5,115,38
+Danielle,Jackson's Bar Restaurant & Gaming,5,88,38
+Menu,Jackson's Bar Restaurant & Gaming,5,312,38
+David,Jackson's Bar Restaurant & Gaming,5,96,38
+Dixion,Jackson's Bar Restaurant & Gaming,5,105,38
+Benson,Jackson's Bar Restaurant & Gaming,5,37,38
+saberk,Jackson's Bar Restaurant & Gaming,5,410,38
+Laimo,Jackson's Bar Restaurant & Gaming,5,268,38
+Mekay,Jackson's Bar Restaurant & Gaming,5,309,38
+Carmel,Jackson's Bar Restaurant & Gaming,5,59,38
+Solomon,Jackson's Bar Restaurant & Gaming,5,439,38
+Harry,Jackson's Bar Restaurant & Gaming,5,176,38
+Cinnar,Jackson's Bar Restaurant & Gaming,5,73,38
+Michael,Jackson's Bar Restaurant & Gaming,5,316,38
+Benny,Jackson's Bar Restaurant & Gaming,5,36,38
+Gerard,Jackson's Bar Restaurant & Gaming,5,160,38
+noro,Jackson's Bar Restaurant & Gaming,5,346,38
+Wasantha,Jackson's Bar Restaurant & Gaming,5,499,38
+Lesley,Jackson's Bar Restaurant & Gaming,5,279,38
+Rich,Jackson's Bar Restaurant & Gaming,5,392,38
+Leandro,Jackson's Bar Restaurant & Gaming,5,275,38
+Augustine,Jackson's Bar Restaurant & Gaming,4,28,38
+Stanis,Jackson's Bar Restaurant & Gaming,4,444,38
+Cameron,Jackson's Bar Restaurant & Gaming,4,56,38
+Naizal,Jackson's Bar Restaurant & Gaming,4,327,38
+william,Jackson's Bar Restaurant & Gaming,4,505,38
+Lorainne,Jackson's Bar Restaurant & Gaming,4,290,38
+Andrew,Jackson's Bar Restaurant & Gaming,4,18,38
+Ross,Jackson's Bar Restaurant & Gaming,4,406,38
+Ctil,Jackson's Bar Restaurant & Gaming,4,82,38
+John,Jackson's Bar Restaurant & Gaming,4,227,38
+Claude,Jackson's Bar Restaurant & Gaming,4,76,38
+Devon,Jackson's Bar Restaurant & Gaming,4,103,38
+how,Jackson's Bar Restaurant & Gaming,4,186,38
+Sue,Jackson's Bar Restaurant & Gaming,4,453,38
+Kenneth,Jackson's Bar Restaurant & Gaming,4,250,38
+Raio,Jackson's Bar Restaurant & Gaming,4,375,38
+Michael,Jackson's Bar Restaurant & Gaming,3,316,38
+Joshua,Jackson's Bar Restaurant & Gaming,3,235,38
+Simon,Jackson's Bar Restaurant & Gaming,3,435,38
+Emosi,Jackson's Bar Restaurant & Gaming,3,125,38
+Don,Jackson's Bar Restaurant & Gaming,3,106,38
+Habe,Jackson's Bar Restaurant & Gaming,3,173,38
+Georgina,Jackson's Bar Restaurant & Gaming,2,159,38
+Gavin,Jackson's Bar Restaurant & Gaming,2,153,38
+Douglas,Jackson's Bar Restaurant & Gaming,1,109,38
+Ian,Heritage Cafe PNG,5,191,35
+George,Heritage Cafe PNG,5,158,35
+Roger,Heritage Cafe PNG,5,400,35
+Eric,Heritage Cafe PNG,5,128,35
+Avei,Heritage Cafe PNG,5,29,35
+Igen,Heritage Cafe PNG,5,193,35
+Naomi,Heritage Cafe PNG,5,329,35
+Anthony,Heritage Cafe PNG,5,22,35
+vr,Heritage Cafe PNG,5,492,35
+years,Heritage Cafe PNG,5,510,35
+Heather,Heritage Cafe PNG,5,179,35
+Steve,Heritage Cafe PNG,5,449,35
+Reach,Heritage Cafe PNG,5,385,35
+Lionel,Heritage Cafe PNG,5,284,35
+Marcin,Heritage Cafe PNG,5,297,35
+Les,Heritage Cafe PNG,5,278,35
+Emma,Heritage Cafe PNG,5,123,35
+Robert,Heritage Cafe PNG,5,397,35
+Jean,Heritage Cafe PNG,5,213,35
+Gene,Heritage Cafe PNG,5,155,35
+Neo,Heritage Cafe PNG,5,336,35
+Mathias,Heritage Cafe PNG,5,303,35
+Mathew,Heritage Cafe PNG,5,302,35
+Annu,Heritage Cafe PNG,5,20,35
+Ian,Heritage Cafe PNG,4,191,35
+Chey,Heritage Cafe PNG,4,67,35
+christopher,Heritage Cafe PNG,4,71,35
+Sonny,Heritage Cafe PNG,4,440,35
+Jacob,Heritage Cafe PNG,4,207,35
+Ray,Heritage Cafe PNG,3,381,35
+Rocky,Heritage Cafe PNG,3,399,35
+Sandra,Heritage Cafe PNG,3,419,35
+Michelle,Heritage Cafe PNG,3,319,35
+Hash,Heritage Cafe PNG,2,177,35
+yurika,Heritage Cafe PNG,1,512,35
+Wendy,Heritage Cafe PNG,1,502,35
+Rob,Fusion Bistro,5,396,31
+Joe,Fusion Bistro,5,223,31
+Andy,Fusion Bistro,5,19,31
+zanna,Fusion Bistro,5,514,31
+Lanie,Fusion Bistro,5,271,31
+Joe,Fusion Bistro,5,223,31
+Steve,Fusion Bistro,5,449,31
+john,Fusion Bistro,5,226,31
+Fred,Fusion Bistro,5,144,31
+Sophia,Fusion Bistro,5,441,31
+Bryan,Fusion Bistro,5,51,31
+Bri,Fusion Bistro,5,49,31
+Nicholas,Fusion Bistro,5,339,31
+Eric,Fusion Bistro,5,128,31
+lloyd,Fusion Bistro,5,287,31
+Abby,Fusion Bistro,5,3,31
+Duffy,Fusion Bistro,5,112,31
+Fred,Fusion Bistro,5,144,31
+Paul,Fusion Bistro,5,358,31
+Kenneth,Fusion Bistro,5,250,31
+Tyla,Fusion Bistro,5,482,31
+Samantha,Fusion Bistro,4,413,31
+Gary,Fusion Bistro,4,152,31
+Sutharshan,Fusion Bistro,4,458,31
+Leandro,Fusion Bistro,4,275,31
+Claus,Fusion Bistro,4,78,31
+Dario,Fusion Bistro,4,92,31
+Ness,Fusion Bistro,4,337,31
+Pwapei,Fusion Bistro,4,371,31
+Patricia,Fusion Bistro,4,356,31
+Emanuel,Fusion Bistro,4,121,31
+Ezekiel,Fusion Bistro,4,135,31
+Julian,Fusion Bistro,4,238,31
+Warren,Fusion Bistro,4,498,31
+Ravi,Fusion Bistro,4,379,31
+Darryl,Fusion Bistro,4,94,31
+David,Fusion Bistro,3,96,31
+Jill,Fusion Bistro,3,220,31
+Laura,Fusion Bistro,3,272,31
+Catherine,Fusion Bistro,3,63,31
+Thomasina,Fusion Bistro,3,468,31
+Fiona,Fusion Bistro,3,138,31
+Danny,Fusion Bistro,2,90,31
+wong,Fusion Bistro,2,507,31
+Bixby,Fusion Bistro,1,44,31
+Brian,Fusion Bistro,1,50,31
+Burford,Baker Boy (PNG),5,52,6
+Esita,Baker Boy (PNG),5,130,6
+Junior,Baker Boy (PNG),5,240,6
+Liberty,Baker Boy (PNG),5,282,6
+Nick,Baker Boy (PNG),4,340,6
+Kerry,Baker Boy (PNG),4,251,6
+Londe,Baker Boy (PNG),4,289,6
+A,Baker Boy (PNG),4,1,6
+Sepana,Baker Boy (PNG),3,428,6
+Jeremy,Baker Boy (PNG),3,217,6
+Kiran,Yummy Kitchen,5,259,64
+Erick,Yummy Kitchen,5,129,64
+Ian,Yummy Kitchen,5,191,64
+Richards,Yummy Kitchen,5,394,64
+Nick,Yummy Kitchen,4,340,64
+Dino,Yummy Kitchen,4,104,64
+JianLai,Yummy Kitchen,3,219,64
+Jonathan,Yummy Kitchen,2,229,64
+Lorainne,Port Terrace Restaurant & Bar,5,290,49
+Ian,Port Terrace Restaurant & Bar,5,191,49
+Krishnakumar,Port Terrace Restaurant & Bar,5,263,49
+i,Port Terrace Restaurant & Bar,5,190,49
+J,Port Terrace Restaurant & Bar,4,203,49
+David,Port Terrace Restaurant & Bar,4,96,49
+Leandro,Port Terrace Restaurant & Bar,4,275,49
+Michal,Port Terrace Restaurant & Bar,3,317,49
+Lulu,Port Terrace Restaurant & Bar,3,293,49
+Chey,Port Terrace Restaurant & Bar,1,67,49
+Jonathan,The Cellar Restaurant,5,229,62
+Claire,The Cellar Restaurant,5,74,62
+Londe,The Cellar Restaurant,4,289,62
+Wasantha,The Cellar Restaurant,4,499,62
+Aiede,The Cellar Restaurant,4,7,62
+James,The Cellar Restaurant,4,208,62
+claudio,The Cellar Restaurant,4,77,62
+Clive,The Cellar Restaurant,3,79,62
+Carmel,The Cellar Restaurant,3,59,62
+Oldies,The Cellar Restaurant,3,349,62
+Cuisine,Feast Restaurant,5,83,29
+sandeep,Feast Restaurant,5,417,29
+Kevin,Feast Restaurant,4,253,29
+Leandro,Feast Restaurant,4,275,29
+Andy,Feast Restaurant,4,19,29
+Christine,Feast Restaurant,4,70,29
+genevieve,Feast Restaurant,3,156,29
+Jessica,Feast Restaurant,3,218,29
+Francois,Feast Restaurant,2,142,29
+caroline,Daikoku Japanese Steak House,5,61,21
+Sandeep,Daikoku Japanese Steak House,5,418,21
+Dan,Daikoku Japanese Steak House,5,86,21
+Nate,Daikoku Japanese Steak House,5,332,21
+Kowijumanga,Daikoku Japanese Steak House,5,262,21
+Kevin,Daikoku Japanese Steak House,5,253,21
+Joel,Daikoku Japanese Steak House,5,224,21
+Londe,Daikoku Japanese Steak House,4,289,21
+Don,Daikoku Japanese Steak House,4,106,21
+Veuga,Daikoku Japanese Steak House,4,489,21
+Jamimah,Daikoku Japanese Steak House,4,210,21
+Cameron,Daikoku Japanese Steak House,3,56,21
+Patrick,Daikoku Japanese Steak House,3,357,21
+DeA,Daikoku Japanese Steak House,1,99,21
+Geoffrey,Savannah Bistro,5,157,54
+Jonathan,Savannah Bistro,5,229,54
+Daniel,Savannah Bistro,5,87,54
+Daphne,Savannah Bistro,5,91,54
+Danijela,Savannah Bistro,5,89,54
+Rayner,Savannah Bistro,4,383,54
+Graham,Savannah Bistro,4,168,54
+Sum,Savannah Bistro,4,455,54
+Charlie,Savannah Bistro,3,65,54
+Richard,Savannah Bistro,3,393,54
+Catherine,Savannah Bistro,3,63,54
+StreetCut,Savannah Bistro,3,452,54
+JianLai,Savannah Bistro,2,219,54
+Orion,Tasty Bite Indian Restaurant,5,353,61
+Clive,Tasty Bite Indian Restaurant,5,79,61
+Guy,Tasty Bite Indian Restaurant,5,171,61
+A,Tasty Bite Indian Restaurant,5,1,61
+Rich,Tasty Bite Indian Restaurant,5,392,61
+Geoffrey,Tasty Bite Indian Restaurant,5,157,61
+Lamson,Tasty Bite Indian Restaurant,5,270,61
+Laimo,Tasty Bite Indian Restaurant,5,268,61
+Sam,Tasty Bite Indian Restaurant,5,412,61
+Arua,Tasty Bite Indian Restaurant,5,24,61
+Dr,Tasty Bite Indian Restaurant,5,110,61
+Kirubakaran,Tasty Bite Indian Restaurant,5,260,61
+Krishnakumar,Tasty Bite Indian Restaurant,5,263,61
+Liberty,Tasty Bite Indian Restaurant,5,282,61
+Joel,Tasty Bite Indian Restaurant,5,224,61
+Issac,Tasty Bite Indian Restaurant,5,201,61
+Sandeep,Tasty Bite Indian Restaurant,5,418,61
+Andrew,Tasty Bite Indian Restaurant,5,18,61
+Michael,Tasty Bite Indian Restaurant,5,316,61
+Waldek,Tasty Bite Indian Restaurant,5,495,61
+Tony,Tasty Bite Indian Restaurant,5,474,61
+George,Tasty Bite Indian Restaurant,5,158,61
+Shane,Tasty Bite Indian Restaurant,5,433,61
+Paul,Tasty Bite Indian Restaurant,5,358,61
+Fred,Tasty Bite Indian Restaurant,5,144,61
+Ranu,Tasty Bite Indian Restaurant,5,378,61
+Chey,Tasty Bite Indian Restaurant,4,67,61
+colin,Tasty Bite Indian Restaurant,4,80,61
+Nick,Tasty Bite Indian Restaurant,4,340,61
+T,Tasty Bite Indian Restaurant,4,459,61
+Robert,Tasty Bite Indian Restaurant,4,397,61
+Ricky,Tasty Bite Indian Restaurant,4,395,61
+Mohammad,Tasty Bite Indian Restaurant,4,325,61
+David,Tasty Bite Indian Restaurant,4,96,61
+Amit,Tasty Bite Indian Restaurant,4,16,61
+PRADEEP,Tasty Bite Indian Restaurant,4,369,61
+Steven,Tasty Bite Indian Restaurant,4,451,61
+Sarwan,Tasty Bite Indian Restaurant,4,423,61
+Mike,Tasty Bite Indian Restaurant,4,320,61
+Grey,Tasty Bite Indian Restaurant,4,170,61
+Fiona,Tasty Bite Indian Restaurant,4,138,61
+Bob,Tasty Bite Indian Restaurant,4,45,61
+Francis,Tasty Bite Indian Restaurant,3,141,61
+Adeel,Tasty Bite Indian Restaurant,3,6,61
+Florian,Tasty Bite Indian Restaurant,3,139,61
+Deric,Tasty Bite Indian Restaurant,3,101,61
+Jacob,Tasty Bite Indian Restaurant,3,207,61
+Joe,Tasty Bite Indian Restaurant,3,223,61
+Ian,Tasty Bite Indian Restaurant,3,191,61
+Bradley,Tasty Bite Indian Restaurant,3,46,61
+Gary,Tasty Bite Indian Restaurant,2,152,61
+Lisa,Tasty Bite Indian Restaurant,1,285,61
+MGee,Tasty Bite Indian Restaurant,1,314,61
+Gairo,Tasty Bite Indian Restaurant,1,150,61
+Feve,Tasty Bite Indian Restaurant,1,137,61
+Priscilla,Tasty Bite Indian Restaurant,1,370,61
+Lester,Maggie Seafood Resturant,5,280,42
+Gerea,Maggie Seafood Resturant,5,161,42
+Aaron,Maggie Seafood Resturant,5,2,42
+Clive,Maggie Seafood Resturant,5,79,42
+Ramona,Maggie Seafood Resturant,5,377,42
+Felicity,Maggie Seafood Resturant,5,136,42
+Vernon,Maggie Seafood Resturant,5,488,42
+David,Maggie Seafood Resturant,5,96,42
+Anthony,Maggie Seafood Resturant,5,22,42
+Patricia,Maggie Seafood Resturant,5,356,42
+Kurta,Maggie Seafood Resturant,5,265,42
+Joshua,Maggie Seafood Resturant,5,235,42
+Kenneth,Maggie Seafood Resturant,5,250,42
+Malcolm,Maggie Seafood Resturant,5,295,42
+Sachum,Maggie Seafood Resturant,5,411,42
+Titus,Maggie Seafood Resturant,5,472,42
+Lanie,Maggie Seafood Resturant,4,271,42
+aina,Maggie Seafood Resturant,4,8,42
+Joshua,Maggie Seafood Resturant,4,235,42
+Alexander,Maggie Seafood Resturant,4,12,42
+Fiona,Maggie Seafood Resturant,4,138,42
+K,Maggie Seafood Resturant,4,242,42
+Donna,Maggie Seafood Resturant,3,107,42
+Londe,Maggie Seafood Resturant,3,289,42
+Sutharshan,Maggie Seafood Resturant,3,458,42
+Dencio,Maggie Seafood Resturant,3,100,42
+Emmanuel,Maggie Seafood Resturant,1,124,42
+year,Rapala Restaurant,5,509,50
+Tony,Rapala Restaurant,5,474,50
+Daniel,Rapala Restaurant,5,87,50
+sandeep,Rapala Restaurant,5,417,50
+Judy,Rapala Restaurant,4,237,50
+Tracey,Rapala Restaurant,4,477,50
+Sanjay,Rapala Restaurant,4,421,50
+Suryany,Rapala Restaurant,4,457,50
+Tony,Rapala Restaurant,4,474,50
+Ian,Rapala Restaurant,4,191,50
+Raghupathi,Rapala Restaurant,3,374,50
+Ben,Rapala Restaurant,3,34,50
+Jonathan,Dynasty Seafood Restaurant,5,229,25
+Carmel,Dynasty Seafood Restaurant,5,59,25
+Rian,Dynasty Seafood Restaurant,5,391,25
+Krishnakumar,Dynasty Seafood Restaurant,5,263,25
+T,Dynasty Seafood Restaurant,5,459,25
+Kiran,Dynasty Seafood Restaurant,5,259,25
+Hosea,Dynasty Seafood Restaurant,5,185,25
+Kathy,Dynasty Seafood Restaurant,4,246,25
+Dave,Dynasty Seafood Restaurant,4,95,25
+Naomi,Dynasty Seafood Restaurant,4,329,25
+Jeremy,Dynasty Seafood Restaurant,3,217,25
+Steven,Dynasty Seafood Restaurant,3,451,25
+Anthony,Dynasty Seafood Restaurant,3,22,25
+Liberty,Fu Gui,5,282,30
+Lloyd,Fu Gui,5,288,30
+Ashok,Fu Gui,5,26,30
+Julie,Fu Gui,5,239,30
+Jonathan,Fu Gui,5,229,30
+Krishnakumar,Fu Gui,5,263,30
+Erick,Fu Gui,5,129,30
+Felicity,Fu Gui,5,136,30
+David,Fu Gui,5,96,30
+Anthony,Fu Gui,5,22,30
+Patricia,Fu Gui,5,356,30
+Clive,Fu Gui,5,79,30
+Kurta,Fu Gui,5,265,30
+Joshua,Fu Gui,5,235,30
+Kenneth,Fu Gui,5,250,30
+Geoffrey,Fu Gui,5,157,30
+Malcolm,Fu Gui,5,295,30
+Sachum,Fu Gui,5,411,30
+Titus,Fu Gui,5,472,30
+Darrell,Fu Gui,4,93,30
+Anthon,Fu Gui,4,21,30
+B,Fu Gui,4,30,30
+Carole,Fu Gui,4,60,30
+EnDee,Fu Gui,4,126,30
+aina,Fu Gui,4,8,30
+Dino,Fu Gui,4,104,30
+Lanie,Fu Gui,4,271,30
+Joshua,Fu Gui,4,235,30
+Sutharshan,Fu Gui,3,458,30
+Londe,Fu Gui,3,289,30
+Dencio,Fu Gui,3,100,30
+Nelson,Fu Gui,2,334,30
+Pierce,Hog's Breath Cafe,5,366,36
+michael,Hog's Breath Cafe,5,315,36
+Burford,Hog's Breath Cafe,5,52,36
+v,Hog's Breath Cafe,5,486,36
+Bradley,Hog's Breath Cafe,4,46,36
+Brian,Hog's Breath Cafe,4,50,36
+Samuel,Hog's Breath Cafe,4,416,36
+Phil,Hog's Breath Cafe,4,362,36
+Beasty,Hog's Breath Cafe,3,32,36
+Jimi,Hog's Breath Cafe,3,221,36
+Fiona,Hog's Breath Cafe,3,138,36
+T,Hog's Breath Cafe,3,459,36
+Olivia,Hog's Breath Cafe,1,350,36
+Jonathan,Ang's Restaurant,5,229,3
+Shammah,Ang's Restaurant,5,432,3
+Simon,Ang's Restaurant,5,435,3
+Ian,Ang's Restaurant,5,191,3
+Cheong,Ang's Restaurant,4,66,3
+Mary,Ang's Restaurant,4,299,3
+Wah,Ang's Restaurant,4,493,3
+K,Ang's Restaurant,4,242,3
+Huascar,Ang's Restaurant,4,188,3
+claudio,Ang's Restaurant,4,77,3
+Milton,Ang's Restaurant,3,322,3
+Nas,Ang's Restaurant,1,330,3
+Frederick,Mr Mike's Pizza Shady,5,146,44
+Day,Mr Mike's Pizza Shady,5,97,44
+Kachi,Mr Mike's Pizza Shady,5,243,44
+Vernon,Mr Mike's Pizza Shady,4,488,44
+Christopher,Mr Mike's Pizza Shady,4,72,44
+Londe,Mr Mike's Pizza Shady,3,289,44
+Leandro,Mr Mike's Pizza Shady,2,275,44
+Akinyemi,Mr Mike's Pizza Shady,2,9,44
+Athie,Mr Mike's Pizza Shady,2,27,44
+Nitin,Seoul House Restaurant,5,343,55
+Dallas,Seoul House Restaurant,5,85,55
+Jed,Seoul House Restaurant,5,214,55
+Kapu,Seoul House Restaurant,5,244,55
+Crystal,Seoul House Restaurant,4,81,55
+Daniel,Seoul House Restaurant,4,87,55
+Nick,Seoul House Restaurant,4,340,55
+Bee,Seoul House Restaurant,4,33,55
+Joy,Seoul House Restaurant,4,236,55
+Stephen,Seoul House Restaurant,3,447,55
+Joseph,Seoul House Restaurant,3,232,55
+Stephen,Seoul House Restaurant,3,447,55
+tolai,Seoul House Restaurant,1,473,55
+Bwoy,Restaurant 168,5,53,52
+Derrick,Restaurant 168,5,102,52
+Md,Restaurant 168,5,308,52
+Sarah,Restaurant 168,4,422,52
+zzptom,Restaurant 168,4,516,52
+Ice,Restaurant 168,4,192,52
+Trevor,Restaurant 168,4,478,52
+Mike,Restaurant 168,3,320,52
+Neng,Red Rock Bar,5,335,51
+Abcdefg,Red Rock Bar,5,4,51
+Chico,Red Rock Bar,4,69,51
+Wasantha,Red Rock Bar,4,499,51
+Cameron,Red Rock Bar,4,56,51
+Adam,Red Rock Bar,3,5,51
+Beryl,Red Rock Bar,3,40,51
+Lulu,Red Rock Bar,3,293,51
+Doreen,Red Rock Bar,1,108,51
+Tenien,Enzo's Pizza - Gateway Hotel,5,464,28
+Duri,Enzo's Pizza - Gateway Hotel,5,114,28
+David,Enzo's Pizza - Gateway Hotel,4,96,28
+Charles,Enzo's Pizza - Gateway Hotel,4,64,28
+Mazzella,Enzo's Pizza - Gateway Hotel,4,305,28
+Walai,Enzo's Pizza - Gateway Hotel,3,494,28
+Max,Enzo's Pizza - Gateway Hotel,3,304,28
+Amanda,Enzo's Pizza - Gateway Hotel,3,15,28
+Meshach,Enzo's Pizza - Gateway Hotel,3,313,28
+Kavana,Enzo's Pizza - Gateway Hotel,2,247,28
+Koke,Enzo's Pizza - Gateway Hotel,1,261,28
+Naomi,DFC BOROKO,5,329,22
+IGNASIUS,DFC BOROKO,5,194,22
+Eddie,DFC BOROKO,5,116,22
+Steshauna,DFC BOROKO,5,448,22
+Nathan,DFC BOROKO,5,333,22
+Gerea,DFC BOROKO,5,161,22
+Dua,DFC BOROKO,5,111,22
+Reynolds,DFC BOROKO,5,390,22
+Stan,DFC BOROKO,5,443,22
+Gordon,DFC BOROKO,3,166,22
+Jephta,DFC BOROKO,3,216,22
+Stella,DFC BOROKO,3,445,22
+Burford,DFC BOROKO,2,52,22
+Kevan,DFC BOROKO,2,252,22
+Kerry,DFC BOROKO,1,251,22
+Eliack,DFC BOROKO,1,120,22
+Beryl,Hosi Ramen,5,40,37
+R,Hosi Ramen,5,373,37
+Freda,Hosi Ramen,5,145,37
+Samuel,Hosi Ramen,4,416,37
+Holmes,Hosi Ramen,4,183,37
+T,Hosi Ramen,4,459,37
+Jonathan,Hosi Ramen,3,229,37
+JOSENEIL,Hosi Ramen,3,230,37
+p,Hosi Ramen,1,354,37
+Essie,Grand Palace,5,131,34
+Turbo,Grand Palace,5,479,34
+Sanjay,Grand Palace,5,421,34
+Laimo,Grand Palace,5,268,34
+Wendy,Grand Palace,4,502,34
+Kenneth,Grand Palace,4,250,34
+Terence,Grand Palace,4,465,34
+Leandro,Grand Palace,3,275,34
+Jelax,Grand Palace,1,215,34
+Revenhill,22 Fried Chicken,5,389,1
+Eunice,22 Fried Chicken,5,133,1
+Lawrence,22 Fried Chicken,5,274,1
+Stella,22 Fried Chicken,5,445,1
+Milton,22 Fried Chicken,5,322,1
+Londe,22 Fried Chicken,4,289,1
+Nelson,22 Fried Chicken,3,334,1
+Mcshane,22 Fried Chicken,2,306,1
+Jonathan,Sizzler's Family Restaurant,5,229,56
+David,Sizzler's Family Restaurant,5,96,56
+Gerard,Sizzler's Family Restaurant,5,160,56
+T,Sizzler's Family Restaurant,5,459,56
+Londe,Sizzler's Family Restaurant,4,289,56
+Samuel,Sizzler's Family Restaurant,4,416,56
+Nigel,Sizzler's Family Restaurant,2,341,56
+Igen,Sizzler's Family Restaurant,1,193,56
+Alan,Sizzler's Family Restaurant,1,11,56
+Jessica,City Point Restaurant,5,218,19
+Sophia,City Point Restaurant,5,441,19
+Gregory,City Point Restaurant,5,169,19
+Jamimah,City Point Restaurant,5,210,19
+Ex,City Point Restaurant,4,134,19
+Londe,City Point Restaurant,4,289,19
+Neymar,City Point Restaurant,4,338,19
+Brian,City Point Restaurant,4,50,19
+B,City Point Restaurant,3,30,19
+Doreen,City Point Restaurant,2,108,19
+Eliack,City Point Restaurant,1,120,19
+Frederick,Ozzie’s Bar,5,146,46
+Nunway,Ozzie’s Bar,5,347,46
+Dencio,Ozzie’s Bar,4,100,46
+Big,Ozzie’s Bar,4,43,46
+Richard,Ozzie’s Bar,4,393,46
+Melanie,Ozzie’s Bar,3,310,46
+Jacob,Ozzie’s Bar,3,207,46
+Tracey,Ozzie’s Bar,2,477,46
+Gerea,Yun Sue Restaurant,5,161,65
+Raymond,Yun Sue Restaurant,5,382,65
+Anthony,Yun Sue Restaurant,5,22,65
+p,Yun Sue Restaurant,4,354,65
+Timothy,Yun Sue Restaurant,4,470,65
+Ravi,Yun Sue Restaurant,3,379,65
+Terence,Yun Sue Restaurant,3,465,65
+John,Yun Sue Restaurant,3,227,65
+Doreen,Yun Sue Restaurant,3,108,65
+Gerea,Plaza Food Station,5,161,48
+Miki,Plaza Food Station,5,321,48
+Justine,Plaza Food Station,4,241,48
+David,Plaza Food Station,4,96,48
+Eliack,Plaza Food Station,4,120,48
+Tony,Plaza Food Station,4,474,48
+Chey,Plaza Food Station,4,67,48
+Jimmy,Plaza Food Station,3,222,48
+Chez,Plaza Food Station,3,68,48
+steven,Plaza Food Station,2,450,48
+Akirina,Big Rooster,4,10,7
+Fiona,Big Rooster,4,138,7
+Brian,Big Rooster,3,50,7
+Well,Big Rooster,3,500,7
+Jeremy,Big Rooster,3,217,7
+Trevor,Big Rooster,3,478,7
+Dencio,Big Rooster,3,100,7
+Elena,Big Rooster,1,118,7
+Gordon,Big Rooster,1,166,7
+Wangoro,Sports Inn,5,496,58
+Immanuel,Sports Inn,5,196,58
+David,Sports Inn,5,96,58
+Wellington,Sports Inn,4,501,58
+A,Sports Inn,4,1,58
+John,Sports Inn,3,227,58
+Immanuel,Sports Inn,3,196,58
+Gordon,Sports Inn,3,166,58
+Kylie,Sports Inn,2,266,58
+Michael,Sports Inn,1,316,58
+Carlos,Korean Garden,5,58,39
+Peter,Korean Garden,5,360,39
+Aaron,Korean Garden,5,2,39
+Gavin,Korean Garden,4,153,39
+Sandy,Korean Garden,4,420,39
+Sularso,Korean Garden,4,454,39
+Crystal,Korean Garden,3,81,39
+Torben,Korean Garden,3,475,39
+Shafiul,Korean Garden,3,430,39
+Steve,Korean Garden,1,449,39
+Arjun,Korean Garden,1,23,39
+ogu,Sunset Village Resort,5,348,59
+Beryl,Sunset Village Resort,4,40,59
+Burford,Sunset Village Resort,4,52,59
+Philip,Sunset Village Resort,4,363,59
+Londe,Sunset Village Resort,3,289,59
+Stephen,Sunset Village Resort,3,447,59
+Leandro,Sunset Village Resort,3,275,59
+Chez,Sunset Village Resort,3,68,59
+Glenyss,Sunset Village Resort,2,164,59
+Melannie,Sunset Village Resort,2,311,59
+Kikis,Sunset Village Resort,1,256,59
+Graham,BIG ROOSTER PNG,5,168,10
+Titus,BIG ROOSTER PNG,5,472,10
+Levi,BIG ROOSTER PNG,4,281,10
+Josephine,BIG ROOSTER PNG,3,233,10
+Daniel,BIG ROOSTER PNG,3,87,10
+Romley,BIG ROOSTER PNG,2,401,10
+Caleb,BIG ROOSTER PNG,1,55,10
+Kelvin,BIG ROOSTER PNG,1,249,10
+Haum,BIG ROOSTER PNG,1,178,10
+zanna,Big Rooster Erima,4,514,9
+John,Big Rooster Erima,4,227,9
+Daisy,Big Rooster Erima,3,84,9
+Tenien,Big Rooster Erima,3,464,9
+Hans,Big Rooster Erima,3,174,9
+Lloyd,Big Rooster Erima,2,288,9
+Adam,Big Rooster Erima,2,5,9
+DC,Big Rooster Erima,1,98,9
+Brendon,Big Rooster Erima,1,48,9
+Tarquin,Big Rooster Vision City Mall,5,462,12
+Noel,Big Rooster Vision City Mall,5,345,12
+Daisy,Big Rooster Vision City Mall,3,84,12
+Duncan,Big Rooster Vision City Mall,3,113,12
+Theresa,Big Rooster Vision City Mall,3,467,12
+Titti,Big Rooster Vision City Mall,3,471,12
+Sularso,Big Rooster Vision City Mall,2,454,12
+McVern,Big Rooster Vision City Mall,2,307,12
+George,Big Rooster Boroko,5,158,8
+Sivina,Big Rooster Boroko,3,436,8
+Life,Big Rooster Boroko,3,283,8
+Meshach,Big Rooster Boroko,3,313,8
+Kelvin,Big Rooster Boroko,2,249,8
+Habe,Big Rooster Boroko,2,173,8
+Andrew,Big Rooster Boroko,2,18,8
+Raymond,Big Rooster Boroko,1,382,8
+Moere,Big Rooster Boroko,1,324,8
+bernice,Big Rooster Boroko,1,39,8
+Reillyn,Big Rooster Boroko,1,387,8
+ORANI,Big Rooster Rainbow,5,352,11
+Tamara,Big Rooster Rainbow,4,461,11
+Caroline,Big Rooster Rainbow,3,62,11
+Stephen,Big Rooster Rainbow,2,447,11
+Benaiah,Big Rooster Rainbow,2,35,11
+Beryl,Big Rooster Rainbow,2,40,11
+Dino,Big Rooster Rainbow,2,104,11
+Terence,Big Rooster Rainbow,1,465,11
