@@ -1,12 +1,12 @@
 import pandas as pd
 from surprise import Reader, Dataset, SVD
 from surprise.model_selection import train_test_split
-import joblib
+import pickle
 
 
 # Load the dataset
 data = pd.read_csv('raw_ids.csv')
-data_names = pd.read_csv('raw.csv')
+#data_names = pd.read_csv('raw.csv')
 
 # Define the reader object
 reader = Reader(rating_scale=(1, 5))
@@ -23,5 +23,6 @@ model = SVD()
 # Train the model on the training set
 model.fit(train_set)
 
-# Save model
-joblib.dump(model, 'recommender_model.pkl')
+# save the model
+filename = "recommender_model.sav"
+pickle.dump(model, open(filename, 'wb'))
